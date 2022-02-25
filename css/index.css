@@ -1,0 +1,25 @@
+#secret{
+    display: none;
+}
+#secret1{
+    display: none;
+}
+#secret2{
+    display:  none;
+}
+#secret3{
+    display: none;
+}
+
+body{
+  
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    font-size: 1rem;
+    
+}
+ 
+body{
+    background-color: powderblue;
+    
+} 
